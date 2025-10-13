@@ -5,7 +5,7 @@
 Data Engineer | Machine Learning, Deep Learning & AI Innovator | Passionate about transforming healthcare with technology 🌟
 
 I am on a journey to **build advanced Theoretical and mathematical mastery in ML & DL**, bridging the worlds of data science and healthcare.  
-Check my [**Machine Learning Notes**](https://github.com/Samah-Fquihi/Machine-Learning-Notes) and my [**DeepLearning learning Notes**](https://github.com/Samah-Fquihi/DeepLearning-Notes) for curated summaries, key insights, and distilled knowledge from foundational ML, DL & AI Books and Digital Health resources.  
+Check my [**Machine Learning Notes**](https://github.com/Samah-Fquihi/Machine-Learning-Notes) and my [**DeepLearning Notes**](https://github.com/Samah-Fquihi/DeepLearning-Notes) for curated summaries, key insights, and distilled knowledge from foundational ML, DL & AI Books and Digital Health resources.  
 
 Alongside AI, I am deepening my **biology and medical knowledge** to connect the two fields and drive real-world healthcare transformation.  
 
