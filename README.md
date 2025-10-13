@@ -1,5 +1,5 @@
 
-![Alt Text](https://github.com/Samah-Fquihi/Samah-Fquihi/blob/main/PNG.JPG)
+![Alt Text](https://github.com/Samah-Fquihi/Samah-Fquihi/blob/main/IMG_3386.HEIC)
 # Hi, I’m Samah 👋
 
 Data Graduate Engineer | Machine Learning, Deep Learning & AI Innovator | Passionate about transforming healthcare with technology 🌟
