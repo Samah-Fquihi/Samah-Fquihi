@@ -15,6 +15,7 @@ Next on the horizon: **Enrolling in a Master’s in Digital Health ✨** and pur
 
 I believe that **knowledge, curiosity, and innovation** are the bridges to a smarter, healthier future,  and I’m building that bridge one insight, one project, and one experiment at a time.  
 
+Please check [**Step Into My World Webpage**](https://samah-fquihi.github.io/) to learn more about my projects, research and experience
 
 
 <!--
