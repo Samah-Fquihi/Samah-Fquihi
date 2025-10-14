@@ -9,9 +9,7 @@ Check my [**Machine Learning Notes**](https://github.com/Samah-Fquihi/Machine-Le
 
 Alongside AI, I am deepening my **biology and medical knowledge** to connect the two fields and drive real-world healthcare transformation.  
 
-Explore my [**ML Projects and Research Applied in Health & Medical Sector**](https://github.com/Samah-Fquihi/ML-Projects-Research-Applied-in-Health-and-Medical-Sector) where I apply my learnings, experiment with new ideas, and advance my expertise in solving real-world problems.  
-
-Next on the horizon: **Enrolling in a Master’s in Digital Health ✨** and pursuing a **PhD focused on applying Machine Learning for medical diagnosis, treatments, and healthcare innovation**.  
+Explore my [**ML Projects and Research Applied in Health & Medical Sector**](https://github.com/Samah-Fquihi/ML-Projects-Research-Applied-in-Health-and-Medical-Sector) where I apply my learnings, experiment with new ideas, and advance my expertise in solving real-world problems.    
 
 I believe that **Knowledge, Curiosity, and Innovation** are the bridges to a smarter, healthier future,  and I’m building that bridge one insight, one project, and one experiment at a time.  
 
